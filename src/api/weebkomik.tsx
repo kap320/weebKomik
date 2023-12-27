@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiKey = "https://weeb-scraper.onrender.com/api/komiku";
+const apiKey = "https://weeb-scraper.onrender.com/api";
 
 export const searchManga = async (q: string) => {
   try {
